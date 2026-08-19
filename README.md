@@ -30,10 +30,13 @@ Software Engineer and technology leader with 4+ years of experience delivering f
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dream-hun&show_icons=true&theme=dark&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dream-hun&layout=compact&theme=dark&hide_border=true" height="160"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dream-hun&show_icons=true&theme=dark&hide_border=true&card_width=400" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dream-hun&layout=compact&theme=dark&hide_border=true&card_width=400" alt="Top Languages" />
+</div>
 
 ---
 
